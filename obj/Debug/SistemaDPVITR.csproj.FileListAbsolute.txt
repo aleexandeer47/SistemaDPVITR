@@ -1,0 +1,10 @@
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\bin\Debug\SistemaDPVITR.exe.config
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\bin\Debug\SistemaDPVITR.exe
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\bin\Debug\SistemaDPVITR.pdb
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.FLogin.resources
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.Properties.Resources.resources
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.exe
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.pdb
