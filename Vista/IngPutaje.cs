@@ -16,5 +16,10 @@ namespace SistemaDPVITR.Vista
         {
             InitializeComponent();
         }
+
+        private void Njuegotxt_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

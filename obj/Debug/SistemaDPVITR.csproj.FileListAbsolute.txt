@@ -8,3 +8,4 @@ C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVIT
 C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.csproj.CoreCompileInputs.cache
 C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.exe
 C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.pdb
+C:\Users\jonat\Desktop\EXPO24\SistemaDPVITR\SistemaDPVITR\obj\Debug\SistemaDPVITR.Vista.IngPutaje.resources
